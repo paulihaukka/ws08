@@ -1,3 +1,5 @@
+// https://github.com/paulihaukka/ws08
+
 const apiKey = "YOUR_API_KEY";
 
 const weatherDiv = document.getElementById("weatherdata");
